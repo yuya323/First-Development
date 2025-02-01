@@ -22,3 +22,6 @@
 
 ▪️機能の実装方針予定
 トナメ表欄に球場情報も入れればと思っており、google mapsと連携したい。
+
+▪️使用技術
+開発環境:Docker、サーバサイド: Ruby on Rails Ruby、フロントエンド: HotWire、Webアプリケーションサーバ: Heroku、ファイルサーバ: AWS S3、セッションサーバ: Redis、データベースサーバ: PostgreSQL
